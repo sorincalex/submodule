@@ -1,3 +1,5 @@
 
 This is a submodule test.
+1. A commit from sub_branch
 3. Updated from submodule's master.
+4. Updated from sub_branch2.
