@@ -1,2 +1,3 @@
 
 This is a submodule test.
+3. Updated from submodule's master.
