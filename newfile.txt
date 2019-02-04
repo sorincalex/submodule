@@ -5,3 +5,4 @@ This is a submodule test.
 4. Updated from sub_branch2.
 
 10. A new commit from sub_branch.
+11. Again, from sub_branch.
