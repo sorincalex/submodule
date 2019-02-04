@@ -9,3 +9,4 @@ This is a submodule test.
 12. Changed after rebasing from sub_branch2.
 13. One more update from sub_branch.
 14. Rebase from sub_branch2 and update from sub_branch.
+15. A new update from test_branch (to be squashed).
