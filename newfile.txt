@@ -3,3 +3,10 @@ This is a submodule test.
 1. A commit from sub_branch
 3. Updated from submodule's master.
 4. Updated from sub_branch2.
+
+10. A new commit from sub_branch.
+11. Again, from sub_branch.
+12. Changed after rebasing from sub_branch2.
+13. One more update from sub_branch.
+14. Rebase from sub_branch2 and update from sub_branch.
+15. A new update from test_branch (to be squashed).
